@@ -1,7 +1,7 @@
 ![BLOB Desktop Application](assets/githubLogo.png?raw=true)
-# Custom HUDs for CS2 and Rocket League
+# Custom overlays for VALORANT and CS2
 
-👋 Hey! If you're looking for a **free customizable CS2 and Rocket League HUD** that look nice, you're in the right place 🎯 
+👋 Hey! If you're looking for a **free customizable VALORANT and CS2 HUD and overlays** that look nice, you're in the right place 🎯 
 
 [BLOB](https://blob.productions) offers **slick, and fully customizable HUDs & Overlays** for creators, teams and organisers.  Stand out with our **unique, customizable animations** ✨ – seriously, they're cool! Plus, simplify your workflow with:
 
