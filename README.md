@@ -1,5 +1,5 @@
 ![BLOB Desktop Application](assets/githubLogo.png?raw=true)
-# Custom overlays for VALORANT and CS2
+# Custom VALORANT and CS2 Overlays
 
 👋 Hey! If you're looking for a **free customizable VALORANT and CS2 HUD and overlays** that look nice, you're in the right place 🎯 
 
